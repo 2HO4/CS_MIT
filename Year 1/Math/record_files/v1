@@ -1,0 +1,7 @@
+var userDataContext = {
+  "deviceType": "Desktop",
+  "regionCode": "ROWHIatlantic",
+  "countryCode": "NL",
+  "isEU": true,
+  "isUS": false
+};
